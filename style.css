@@ -1,0 +1,103 @@
+.golovna{
+    background: rgb(2,0,36);
+background: radial-gradient(circle, rgba(2,0,36,1) 0%, rgba(105,121,212,1) 66%, rgba(131,38,134,1) 100%);
+padding-bottom:3%;
+}
+.navbar-brand>span{
+    font-family: "Inter";
+    color:aliceblue;
+    word-break: break-all;
+}
+.a{
+    color:aliceblue;
+}
+.row>h1{
+    padding-top:8%;
+    color: white;
+    text-align: center;
+    font-family: "Inter";
+}
+.row>blockquote{
+    color: white;
+    text-align: center;
+    font-family: "Inter";
+    opacity: 0.75;
+}
+.butt{
+    display: flex;
+    justify-content: center;
+    padding-bottom: 2%;
+    padding-top:2%;
+}
+.butt>button{
+    background-color: #306AC0;
+    font-weight: 600;
+    font-size: 20px;
+    border:15px;
+    padding:3% 15% 3% 15%;
+    border-radius: 15px;
+    box-shadow: 3px 2px 1px #173768;
+}
+.navbar-nav{
+    padding-right: 1%;
+}
+.leftt{
+    text-align: end;
+}
+.foto1{
+    padding-top: 6%;
+}
+.text1{
+    font-family: "Inter";
+    padding-top: 6%;
+}
+.text1>button{
+    padding: 4% 14.5% 4% 14.5%;
+    border: solid #7B26E7;
+    box-shadow: 1px 1px 1px #7B26E7;;
+    background-color: white;
+    font-style: italic;
+    color:#7B26E7;
+}
+.text1>h4{
+    padding-top:10%;
+    padding-bottom:5%;
+    color: #953474;
+}
+.text1>h2{
+    color: #953474;
+}
+.container>.row{
+    padding-bottom: 3%;
+}
+.char,.char1{
+    font-family: "Inter"
+}
+.char>h1{
+    padding-top:3%;
+    color: #8D2EBA;
+    text-align: left;
+    padding-top:0
+}
+.card{
+    height: 100%;
+    padding-top:1%;
+    box-shadow: 3px 5px 3px gray, -0.2em 0.4em 3px #8D2EBA;
+}
+.card-title{
+    padding-top:5%;
+    background: linear-gradient(90deg, rgba(30,116,236,1) 0%, rgba(105,121,212,1) 66%, rgba(0,41,132,1) 100%);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
+.col-md-4{
+    padding-top:3%;
+}
+.char1>h1{
+    padding-top:3%;
+    background: linear-gradient(90deg, #EC1E8D 4.74%, #306AC0 135.77%);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    text-align: left;
+    padding-top:0
+}
